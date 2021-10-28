@@ -7,4 +7,4 @@
 - :open_file_folder: #PostgreSQL #MongoDb #MySQL
 - :pencil: I’m currently working on #Quarkus
 - :book: I’m currently learning #AWS
-- 📫 How to reach me: :envelope: i.koinaris@gmail.com :dove: @ikoinaris
+- 📫 How to reach me: :envelope: i.koinaris@gmail.com :dove: [@ikoinaris](https://twitter.com/ikoinaris)
