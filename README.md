@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Ioannis
 
 - :computer: I 'm working as Software Engineer in Munich :de:
-- :earth_americas: #AngularJs #ReactJs
+- :earth_americas: #AngularJs #ReactJs #NodeJs
 - :wrench: #Java #Python
 - :whale: #Docker
 - :open_file_folder: #PostgreSQL #MongoDb #MySQL
