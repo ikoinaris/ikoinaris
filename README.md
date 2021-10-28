@@ -5,6 +5,6 @@
 - :wrench: #Java #Python
 - :whale: #Docker
 - :open_file_folder: #PostgreSQL #MongoDb #MySQL
-- 🔭 I’m currently working on #Quarkus
-- 🌱 I’m currently learning #AWS
-- 📫 How to reach me: :envelope: i.koinaris@gmail.com :bird: @ikoinaris
+- :pencil: I’m currently working on #Quarkus
+- :book: I’m currently learning #AWS
+- 📫 How to reach me: :envelope: i.koinaris@gmail.com :dove: @ikoinaris
