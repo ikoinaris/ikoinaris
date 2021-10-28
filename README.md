@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**ikoinaris/ikoinaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 my name is Ioannis
 
 - :computer: I 'm working as Software Engineer in Munich :de:
 - :earth_americas: #AngularJs #ReactJs
