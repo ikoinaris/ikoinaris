@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ioannis
 
-- :computer: I 'm working as Software Engineer in Munich
+- :computer: I 'm working as Fullstack Developer in Munich
 - :earth_americas: #AngularJs #ReactJs #NodeJs
 - :wrench: #Java #Python
 - :whale: #Docker
