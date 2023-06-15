@@ -5,5 +5,5 @@
 - :wrench: #Java #Python
 - :whale: #Docker
 - :open_file_folder: #PostgreSQL #MongoDb #MySQL
-- :pencil: I’m currently working on #Liferay
+- :pencil: I’m currently working on #Kotlin
 - 📫 How to reach me: :envelope: i.koinaris@gmail.com :dove: [@ikoinaris](https://twitter.com/ikoinaris)
