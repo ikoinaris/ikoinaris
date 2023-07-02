@@ -2,7 +2,7 @@
 
 - :computer: I 'm working as Fullstack Developer in Munich
 - :earth_americas: #AngularJs #ReactJs #NodeJs
-- :wrench: #Java #Python
+- :wrench: #Java #Javascript
 - :whale: #Docker
 - :open_file_folder: #PostgreSQL #MongoDb #MySQL
 - :pencil: I’m currently working on #Kotlin
