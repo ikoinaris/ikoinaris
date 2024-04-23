@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ioannis
 
-- :computer: I 'm working as Software Craftsman in Greece
+- :computer: I 'm working as Software Craftsman at the/experts
 - :earth_americas: #AngularJs #ReactJs #NodeJs
 - :wrench: #Java #Javascript
 - :whale: #Docker
